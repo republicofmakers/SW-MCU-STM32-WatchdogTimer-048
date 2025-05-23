@@ -8,7 +8,7 @@ Prescaler = 64 and LSI = 32,000 Hz -> Calculation for 3 seconds watchdog timer:
 
 ## Demonstration
 
-<img width="495" alt="watchdog" src="https://github.com/user-attachments/assets/05596c88-e2e3-4df7-ac3e-56601e5ac631" />
+<img width="538" alt="watchdog" src="https://github.com/user-attachments/assets/f84767aa-f04d-4f00-a78c-4663d4e468c8" />
 
 (increase delay time in the code to test watchdog timer)
 
